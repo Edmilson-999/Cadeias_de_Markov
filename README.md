@@ -57,7 +57,7 @@ Asignment/
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/Cadeias_de_Markov.git
+   git clone https://github.com/Edmilson-999/Cadeias_de_Markov.git
    cd Cadeias_de_Markov
    ```
 
