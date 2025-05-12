@@ -57,8 +57,8 @@ Asignment/
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/markov-chains-project.git
-   cd markov-chains-project
+   git clone https://github.com/seu-usuario/Cadeias_de_Markov.git
+   cd Cadeias_de_Markov
    ```
 
 2. **Instale as dependências:**
